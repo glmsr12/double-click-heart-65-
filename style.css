@@ -15,6 +15,10 @@ h3 {
   text-align: center;
 }
 
+span {
+  padding: 10px;
+}
+
 small {
   display: block;
   margin-bottom: 20px;
