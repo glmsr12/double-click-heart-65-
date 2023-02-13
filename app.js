@@ -16,6 +16,7 @@ heartIt.addEventListener('click', (e) => {
     }
   }
 });
+//create heart shape
 
 const createHeart = (e) => {
   const heart = document.createElement('i');
